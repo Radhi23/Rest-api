@@ -1,0 +1,11 @@
+POST http://localhost:8080/events
+Content-Type: application/json
+Authorization: eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJlbWFpbCI6ImFiY2RAZ21haWwuY29tIiwiZXhwIjoxNzI0NTIxNjM3LCJ1c2VySWQiOjF9.XS5DbsmH7Tjo8-WIrgTHQhuO2sMwC-vz1YuLTHqMTWE
+
+
+{
+    "name":"text events 1",
+    "description":"vava test dssescription !!",
+    "location":"test location11",
+    "dateTime":"2024-08-24T15:30:00.000Z"
+}
